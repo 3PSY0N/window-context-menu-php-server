@@ -15,7 +15,7 @@ if not errorlevel 1 (
 set "current_directory=%cd%"
 
 :: Start PHP Server
-start "Serveur PHP" cmd /c "php -S localhost:%port% -t "%current_directory%""
+start "PHP Server" cmd /c "php -S localhost:%port% -t "%current_directory%""
 
 :: Start Browser and open server URL
 start "Browser" "http://localhost:%port%"
