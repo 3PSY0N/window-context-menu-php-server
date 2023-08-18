@@ -15,3 +15,6 @@ The aim of this project is to be able to launch a php server under Windows from 
 
 ## How to uninstall?
 Simply double click on `unregister.reg` to remove context menu.
+
+## Demo
+![webserver](https://github.com/3PSY0N/windows-context-menu-php-server/assets/78256817/7ac30107-76ff-4d04-9821-906556da4711)
